@@ -1,0 +1,7 @@
+body {
+    background-color: blue;
+    background-image: url(https://img.freepik.com/free-photo/sunny-day-with-sea-background_1160-233.jpg?semt=ais_hybrid&w=740&q=80);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
